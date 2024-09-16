@@ -1,0 +1,8 @@
+cucumber = (type('Огурец'))
+print(cucumber)
+cucumber = (type(1))
+print(cucumber)
+cucumber = (type(2.5))
+print(cucumber)
+cucumber = (type(True))
+print(cucumber)
